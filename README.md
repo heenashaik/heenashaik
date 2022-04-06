@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Heena Shaik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+![](https://media-exp1.licdn.com/dms/image/C5616AQETGUpbIRvXtw/profile-displaybackgroundimage-shrink_350_1400/0/1642665080249?e=1654732800&v=beta&t=CJS-5EjVR7xab7Q7ivImzSCD_vWF3BA0YtCw8Lu4jW0)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heenashaik&label=Profile%20views&color=0e75b6&style=flat" alt="heenashaik" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heenashaik" alt="heenashaik" /></a> </p>
