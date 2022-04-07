@@ -2,11 +2,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-![](https://media-exp1.licdn.com/dms/image/C5616AQETGUpbIRvXtw/profile-displaybackgroundimage-shrink_350_1400/0/1642665080249?e=1654732800&v=beta&t=CJS-5EjVR7xab7Q7ivImzSCD_vWF3BA0YtCw8Lu4jW0)
+![](https://media-exp1.licdn.com/dms/image/C5616AQGVxwIlE6Egvw/profile-displaybackgroundimage-shrink_350_1400/0/1649310377674?e=1654732800&v=beta&t=aemAZh3EG0GbTDTLY8Va6ReE42W2jFq6wT-WUAxx_rM)
 
-
-
-- 🔭 I’m currently working on this page. 
+ 
 
 
 
